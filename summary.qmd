@@ -1,0 +1,51 @@
+---
+title: "Summary: Introduction to Chinese Economy"
+author: "Szymon Nastaly"
+toc: true
+number-sections: true
+reference-location: margin
+format: 
+  html: 
+    code-fold: true
+    html-math-method: katex
+  typst: 
+    geometry: 
+      - top=30mm
+      - left=20mm
+
+---
+## Essentials of the chinese economy
+### Imperial Era (220 BC - 1912 AD)
+China was an agrarian empire, shaped by Confucian ideology. The state supported agriculture through infrastructure projects and crop innovations. *Ideal*: small family farms. *Reality*: large estates and tenant farming. Long periods of peace led to crop specialization and extensive trade via waterways.
+
+#### Confucian Moral Economic Paradigm
+The economy aimed to promote moral development rather than growth. Strict gender roles were enforced, sometimes by the state. Trade was valued, but merchants were controlled. State monopolies existed, often run by wealthy merchant families. Scientific, financial, and technical innovations fluctuated over time.
+
+#### Innovations and Stagnation
+The Song dynasty (960-1279) introduced gunpowder, compass, and movable type printing. Qing dynasty (1644-1912) developed paper money and banking. However, innovations were unsystematic, lacking technical training. China's industrial revolution was hindered by colonialism and Confucian disinterest in natural sciences.
+  
+#### Foreign Trade Dynamics
+Chinese foreign trade oscillated between open and closed periods, varying by dynasty and emperor. China typically exported silk, porcelain, and tea. The Silk Road and Maritime Silk Road facilitated trade. The Qing dynasty restricted Western trade, leading to British attempts to open markets through the Opium Wars.
+  
+#### Economic Trajectory
+China was typically prosperous, with higher per-capita wealth than Europe until industrialization. It remained the world's largest economy until the 1890s. However, it faced crises including overpopulation, famines, ecological issues, and falling behind the West technologically.
+
+#### Colonial Period
+China became a "semi-colony" under Western influence. Opium Wars led to unequal treaties and foreign concessions. This forced economic modernization, with foreign-invested industries in concession areas. Chinese modernization efforts (ti-yong) were largely unsuccessful. Imperial rule ended in 1911-1912, replaced by a weak, unstable republic.
+
+### Maoist Era (1949-1978)
+The Communist revolution of 1949 replaced the republic with a Soviet-style command economy. Agriculture was nationalized into people's communes, and five-year plans emphasized heavy industry. Maoism focused on mass mobilization, leading to the disastrous Great Leap Forward (1958-1961) which caused a massive famine, and the Cultural Revolution (1966-1969) which purged opponents and disrupted economic planning. Despite high industrial growth, China's economy remained inefficient with rationed commodities. While education and literacy improved, China was still one of the world's poorest countries, struggling with outdated technology, insufficient agricultural output, and minimal participation in international trade.
+
+### Reform Period (1978-2010)
+Deng Xiaoping's economic reforms prioritized modernization and opening to the outside world. The process began with agriculture, effectively privatizing it by abolishing people's communes. The industrial sector followed with a dual-price system, combining planned and private economies. Special Economic Zones were established to attract foreign trade and investment.
+
+In the 1990s, China transitioned away from a planned economy. State-owned enterprises were reformed, converted to stock-holding companies, and partially sold. The government broke up large state enterprises to promote competition, though corruption remained an issue. China's WTO membership in 2001 ushered in the "Golden Decade" (2000-2010) with over 10% annual growth.
+
+The "China Model" emerged as a unique variation of the developmental state. It maintained Communist Party leadership while subjecting large companies to market forces and international competition. Small and medium enterprises were left to compete independently. Industrial policy continued through five-year plans, technology subsidies, and loan interest rate regulation.
+
+Key features included:
+
+* A meritocratic elite bureaucracy guiding reforms
+* High savings rates (50%) prioritizing investment over consumption
+* Export-oriented economic strategy
+* Government support for education, science, and technology development
