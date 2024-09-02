@@ -12,6 +12,10 @@ format:
     geometry: 
       - top=30mm
       - left=20mm
+format-links:
+  - html
+  - format: typst
+    text: Download PDF
 
 ---
 ## Essentials of the chinese economy
